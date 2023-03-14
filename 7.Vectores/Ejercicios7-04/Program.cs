@@ -51,7 +51,7 @@ namespace Ejercicios7_04
                 
             }
 
-            Console.WriteLine("El artículo N° vendió " + ventasArt[9] + ".");
+            Console.WriteLine("El artículo N°10 vendió " + ventasArt[9] + ".");
         }
     }
 }
